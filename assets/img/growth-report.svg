@@ -1,0 +1,26 @@
+<svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="640" rx="32" fill="#FFFFFF"/>
+  <rect x="40" y="40" width="880" height="80" rx="16" fill="#0B4FFF" opacity="0.08"/>
+  <text x="80" y="92" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#061C58">成长档案 · S2 节奏掌控阶段</text>
+  <text x="80" y="132" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#5C6784">更新时间：2024-05-12</text>
+  <rect x="40" y="160" width="280" height="440" rx="24" fill="#F5F7FF"/>
+  <text x="72" y="208" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#061C58">阶段指标</text>
+  <text x="72" y="244" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#2F3A5C">节奏配合</text>
+  <rect x="72" y="252" width="200" height="16" rx="8" fill="#D9E4FF"/>
+  <rect x="72" y="252" width="160" height="16" rx="8" fill="#0B4FFF"/>
+  <text x="72" y="300" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#2F3A5C">体能耐力</text>
+  <rect x="72" y="308" width="200" height="16" rx="8" fill="#D9E4FF"/>
+  <rect x="72" y="308" width="140" height="16" rx="8" fill="#0B4FFF"/>
+  <text x="72" y="356" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#2F3A5C">核心稳定</text>
+  <rect x="72" y="364" width="200" height="16" rx="8" fill="#D9E4FF"/>
+  <rect x="72" y="364" width="120" height="16" rx="8" fill="#0B4FFF"/>
+  <text x="72" y="412" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#2F3A5C">段位积分</text>
+  <rect x="72" y="420" width="200" height="16" rx="8" fill="#D9E4FF"/>
+  <rect x="72" y="420" width="184" height="16" rx="8" fill="#FF7A45"/>
+  <rect x="360" y="160" width="560" height="208" rx="24" fill="#FDF4EE"/>
+  <text x="392" y="204" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#B25016">阶段亮点</text>
+  <text x="392" y="240" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#6F4330">· 60 秒单摇次数达 128 次，提升 32%\n· 花式组合“交叉 + 反交叉”完成度 4.5/5\n· 家庭作业完成率 92%</text>
+  <rect x="360" y="388" width="560" height="212" rx="24" fill="#F5F7FF"/>
+  <text x="392" y="432" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#061C58">教练建议</text>
+  <text x="392" y="468" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="14" fill="#2F3A5C">1. 每周 3 次 8 分钟节拍器练习，节奏控制在 160 BPM。\n2. 结合平板支撑 + 侧支撑，每次 3 组，强化核心稳定。\n3. 周末参加社群挑战赛，积累舞台经验。</text>
+</svg>

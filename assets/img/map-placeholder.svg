@@ -1,0 +1,6 @@
+<svg width="280" height="160" viewBox="0 0 280 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="160" rx="16" fill="#F5F7FF"/>
+  <path d="M40 60c0-22.091 17.909-40 40-40h120c22.091 0 40 17.909 40 40v40c0 22.091-17.909 40-40 40H80c-22.091 0-40-17.909-40-40V60z" fill="#E1E8FF"/>
+  <path d="M140 48c-17.673 0-32 14.327-32 32 0 18.667 24 44 29.245 49.245a4 4 0 0 0 5.51 0C148 124 172 98.667 172 80c0-17.673-14.327-32-32-32zm0 44a12 12 0 1 1 0-24 12 12 0 0 1 0 24z" fill="#0B4FFF"/>
+  <text x="140" y="148" text-anchor="middle" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#061C58">张江运动中心</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="156" height="44" rx="12" fill="#0B4FFF" stroke="#061C58" stroke-width="4"/>
+  <path d="M32 16c4.418 0 8 3.582 8 8s-3.582 8-8 8-8-3.582-8-8 3.582-8 8-8z" fill="#FFFFFF"/>
+  <path d="M28 24.5c2.5-2 5-2 7.5 0" stroke="#0B4FFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M52 18h10l-5 16h-10L52 18z" fill="#ffffff"/>
+  <text x="72" y="29" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">我们跳绳</text>
+</svg>
